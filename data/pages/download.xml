@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 30 May 2021 00:54:30 +0700</pubDate><title><![CDATA[Download]]></title><url><![CDATA[download]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Download]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-8 p-3 p-md-5&quot;&gt;&lt;img alt=&quot;aplikasi toko&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/apls.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-3 p-md-5&quot;&gt;
+		&lt;h3&gt;Pilih Menu Download&lt;/h3&gt;
+
+		&lt;hr /&gt;&lt;a class=&quot;btn btn-primary rounded col-12 btn-lg&quot; href=&quot;https://sourceforge.net/projects/vpos/files/v-pos.apk/download&quot;&gt;&lt;i class=&quot;fab fa-android&quot;&gt;&lt;/i&gt; APK Android&lt;/a&gt;
+
+		&lt;hr /&gt; &lt;a class=&quot;btn btn-primary rounded col-12 btn-lg&quot; href=&quot;https://mesinkasir.github.io/e-catalog/vpos%20web%20apps.pdf&quot;&gt;&lt;i class=&quot;fas fa-file-pdf&quot;&gt;&lt;/i&gt; E-Catalog&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

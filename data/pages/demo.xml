@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 30 May 2021 00:32:55 +0700</pubDate><title><![CDATA[Demo]]></title><url><![CDATA[demo]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Demo]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-12 p-3 p-md-5&quot;&gt;
+		&lt;h3&gt;Select Demo Version&lt;/h3&gt;
+
+		&lt;p&gt;Click on device for watch demo mode&lt;/p&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-8 p-3 p-md-5&quot;&gt;&lt;button class=&quot;btn btn-white&quot; data-bs-target=&quot;#desktopModal&quot; data-bs-toggle=&quot;modal&quot; type=&quot;button&quot;&gt;&lt;img alt=&quot;aplikasi toko&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/webapp/mesin kasir online vpos.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/button&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-3 p-md-5&quot;&gt;&lt;button class=&quot;btn btn-white&quot; data-bs-target=&quot;#mobileModal&quot; data-bs-toggle=&quot;modal&quot; type=&quot;button&quot;&gt;&lt;img alt=&quot;aplikasi toko&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/webapp/point of sale web app vpos - Copy.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/button&gt;&lt;/div&gt;
+
+	&lt;div aria-hidden=&quot;true&quot; aria-labelledby=&quot;desktopModalLabel&quot; class=&quot;modal fade&quot; id=&quot;desktopModal&quot; tabindex=&quot;-1&quot;&gt;
+		&lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+			&lt;div class=&quot;modal-content&quot;&gt;
+				&lt;div class=&quot;modal-header bg-primary text-white&quot;&gt;
+					&lt;h5 class=&quot;modal-title text-white&quot; id=&quot;desktopModalLabel&quot;&gt;Desktop Version demo&lt;/h5&gt;
+					&lt;button aria-label=&quot;Close&quot; class=&quot;btn-close&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;&lt;/button&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;modal-body bg-dark&quot;&gt;
+					&lt;div class=&quot;ratio ratio-16x9&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/uZBBgEHw12M&quot; title=&quot;mesin kasir toko&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;modal-footer bg-primary text-white&quot;&gt;&lt;button class=&quot;btn btn-secondary&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;Close&lt;/button&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div aria-hidden=&quot;true&quot; aria-labelledby=&quot;mobileModalLabel&quot; class=&quot;modal fade&quot; id=&quot;mobileModal&quot; tabindex=&quot;-1&quot;&gt;
+		&lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+			&lt;div class=&quot;modal-content&quot;&gt;
+				&lt;div class=&quot;modal-header bg-primary text-white&quot;&gt;
+					&lt;h5 class=&quot;modal-title text-white&quot; id=&quot;mobileModalLabel&quot;&gt;Mobile Version demo&lt;/h5&gt;
+					&lt;button aria-label=&quot;Close&quot; class=&quot;btn-close&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;&lt;/button&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;modal-body bg-dark&quot;&gt;
+					&lt;div class=&quot;ratio ratio-16x9&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/bbaGuA4ya4E&quot; title=&quot;mesin kasir toko&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;modal-footer bg-primary text-white&quot;&gt;&lt;button class=&quot;btn btn-secondary&quot; data-bs-dismiss=&quot;modal&quot; type=&quot;button&quot;&gt;Close&lt;/button&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 30 May 2021 01:17:12 +0700</pubDate><title><![CDATA[Features]]></title><url><![CDATA[features]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Features]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-8 p-3 p-md-5&quot;&gt;&lt;img alt=&quot;aplikasi toko&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/pak.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-3 p-md-5&quot;&gt;
+		&lt;h3&gt;Pilih menu features details&lt;/h3&gt;
+
+		&lt;hr /&gt;&lt;a class=&quot;btn btn-primary rounded col-12 btn-lg&quot; href=&quot;index.php?id=database&quot;&gt;&lt;i class=&quot;fas fa-database&quot;&gt;&lt;/i&gt; Database&lt;/a&gt;
+
+		&lt;hr /&gt; &lt;a class=&quot;btn btn-primary rounded col-12 btn-lg&quot; href=&quot;index.php?id=pos-kasir&quot;&gt;&lt;i class=&quot;fas fa-cash-register&quot;&gt;&lt;/i&gt; POS Kasir&lt;/a&gt;
+
+		&lt;hr /&gt; &lt;a class=&quot;btn btn-primary rounded col-12 btn-lg&quot; href=&quot;index.php?id=inventori-stok&quot;&gt;&lt;i class=&quot;fas fa-box&quot;&gt;&lt;/i&gt; Inventori&lt;/a&gt;
+
+		&lt;hr /&gt; &lt;a class=&quot;btn btn-primary rounded col-12 btn-lg&quot; href=&quot;index.php?id=laporan&quot;&gt;&lt;i class=&quot;fas fa-chart-line&quot;&gt;&lt;/i&gt; Laporan&lt;/a&gt;
+
+		&lt;hr /&gt; &lt;a class=&quot;btn btn-primary rounded col-12 btn-lg&quot; href=&quot;index.php?id=online-shop&quot;&gt;&lt;i class=&quot;fas fa-shopping-cart&quot;&gt;&lt;/i&gt; Online Shop&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

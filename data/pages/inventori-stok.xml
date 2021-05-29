@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 30 May 2021 01:10:06 +0700</pubDate><title><![CDATA[Inventori Stok]]></title><url><![CDATA[inventori-stok]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Inventori Stok]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+	&lt;div class=&quot;col-12 col-md-12 p-3 p-md-5&quot;&gt;
+		&lt;h3&gt;Inventori stok&lt;/h3&gt;
+		&lt;img alt=&quot;aplikasi toko&quot; class=&quot;img-fluid&quot; src=&quot;data/uploads/webapp/6inventori.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;p&gt;Fitur untuk melakukan in out stok persediaan produk.&lt;/p&gt;
+	&lt;/div&gt;
+
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>
