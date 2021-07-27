@@ -27,22 +27,25 @@ Landing page with bootstrap framework css
 
 All in one website and application, powerfull on online mode.
 
-![New bootstrap website template themes free download ](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%286%29.png/max/max/1)
+![new cms modern](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%285%29.png)
 
 Login Area for backend
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%284%29.png)
 
 Page and article post menu.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%283%29.png)
 
 Create article post very simple and easy
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%282%29.png)
+
+File manager system
+
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%281%29.png)
 
 Back end setting
-
  -----------------------------------------------------------------
 ### how to install
 
