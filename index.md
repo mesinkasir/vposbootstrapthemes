@@ -6,9 +6,8 @@ CMS No need a database for installation , make your website very fast and SEO fr
 
 How to install ?? [read documentation  →](https://axcora.com/getaxcoracms/index.php?id=get-started)
 
-[Test Drive demo →](https://vpos.sourceforge.io/)
+[Test Drive demo →](https://youtu.be/1QeSTmPelRw)
 
-[Pre demo →](https://aplikasi-toko.sourceforge.io/)
 
 ---------------------------------
 
@@ -16,23 +15,11 @@ How to install ?? [read documentation  →](https://axcora.com/getaxcoracms/inde
 
 New bootstrap website template themes free download - get axcora cms.
 
-![New bootstrap website template themes free download](https://a.fsdn.com/con/app/proj/vpos/screenshots/free%20download%20new%20bootstrap%20website%20template%20%284%29.png/max/max/1)
+![New bootstrap website template themes free download](https://1.bp.blogspot.com/-EHU0i3_PtFM/YPFsx7Gxc9I/AAAAAAAAP5A/_p46doDj2McP3_noCwUmDKukWeMJRwE4gCLcBGAsYHQ/s1440/website%2Blanding%2Bpage%2Bfree%2Bdownload.png)
 
 Landing page with bootstrap framework css 
 
 11 page features , you can change code and create new post with you needed
-
-![New bootstrap website template themes free download](https://a.fsdn.com/con/app/proj/vpos/screenshots/free%20download%20new%20bootstrap%20website%20template%20%282%29.png/max/max/1)
-
-sample page
-
-![New bootstrap website template themes free download](https://a.fsdn.com/con/app/proj/vpos/screenshots/free%20download%20new%20bootstrap%20website%20template%20%283%29.png/max/max/1)
-
-sample page
-
-![New bootstrap website template themes free download](https://a.fsdn.com/con/app/proj/vpos/screenshots/free%20download%20new%20bootstrap%20website%20template%20%281%29.png/max/max/1)
-
-sample page
 
 ---------------------------------
 
@@ -40,22 +27,25 @@ sample page
 
 All in one website and application, powerfull on online mode.
 
-![New bootstrap website template themes free download ](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%286%29.png/max/max/1)
+![new cms modern](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%285%29.png)
 
 Login Area for backend
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%284%29.png)
 
 Page and article post menu.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%283%29.png)
 
 Create article post very simple and easy
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%282%29.png)
+
+File manager system
+
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%281%29.png)
 
 Back end setting
-
  -----------------------------------------------------------------
 ### how to install
 
@@ -82,9 +72,9 @@ Click on setting menu
 + Change title website for SEO
 And save , Your website is online now 
 
-[Test Drive demo →](https://vpos.sourceforge.io/)
 
-[Pre demo →](https://aplikasi-toko.sourceforge.io/)
+[Test Drive demo →](https://youtu.be/1QeSTmPelRw)
+
 
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
 
